@@ -1,0 +1,12 @@
+[
+    {"row": 0, "span": [0, 3], "part_number": "467"},
+    {"row": 0, "span": [5, 8], "part_number": "114"},
+    {"row": 2, "span": [2, 4], "part_number": "35"},
+    {"row": 2, "span": [6, 9], "part_number": "633"},
+    {"row": 4, "span": [0, 3], "part_number": "617"},
+    {"row": 5, "span": [7, 9], "part_number": "58"},
+    {"row": 6, "span": [2, 5], "part_number": "592"},
+    {"row": 7, "span": [6, 9], "part_number": "755"},
+    {"row": 9, "span": [1, 4], "part_number": "664"},
+    {"row": 9, "span": [5, 8], "part_number": "598"},
+]
